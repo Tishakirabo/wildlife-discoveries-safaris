@@ -1,0 +1,17 @@
+/* this is the slider flows */
+.slider{
+    padding: 2%;
+    text-align: left;
+}
+.capsol{
+    display: flex;
+    width: 100%;
+}
+.capsol div{
+    width: 33%;
+    padding: 1%;
+    text-align: center;
+}
+.capsol div img{
+    width: 90%;
+}
